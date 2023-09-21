@@ -7,7 +7,6 @@ class Solution {
 		for (int i = 0; i < num; i++) {
 			result[i] = a + i;
 		}
-
 		return result;
     }
 }
