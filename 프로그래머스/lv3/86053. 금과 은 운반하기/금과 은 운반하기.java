@@ -26,7 +26,7 @@ public class Solution {
 	    long hi = 400000000000000L;
 	    long lo = 0;
 
-	    // 이분 탐색
+	    // 이진 탐색
 	    while (lo + 1 < hi) {
 	        long mid = (lo + hi) / 2;
 
