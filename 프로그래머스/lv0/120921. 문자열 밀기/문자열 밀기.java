@@ -3,3 +3,4 @@ class Solution {
 	        return (B + B).indexOf(A);
 	    }
 }
+import java.util.Arrays;
